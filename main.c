@@ -508,5 +508,6 @@ int sair(){
 	//FINAL DO PROGRAMA------------------------------------>
 	mostrarTitulo( titulos[ index_sair ] );
 	//----------------------------------------------------->
+	pausar();
 	return 0;
 }
